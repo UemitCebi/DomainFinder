@@ -1,0 +1,45 @@
+{
+  "name": "@uemitcebi/domainfinder",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/uemitcebi/domainfinder",
+  "bugs": "https://github.com/uemitcebi/domainfinder/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "web-scraping",
+    "puppeteer",
+    "duckduckgo",
+    "csv",
+    "csv-parser",
+    "csv-writer",
+    "domain-search",
+    "parallel-processing",
+    "concurrent-scraping",
+    "automated-search",
+    "browser-automation",
+    "data-cleaning",
+    "chunking",
+    "javascript",
+    "node"
+  ],
+  "author": "Ümit Cebi ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uemitcebi/domainfinder.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.1.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^24.1.1"
+  },
+  "engines": {
+    "node": ">=23",
+    "pnpm": ">=10"
+  },
+  "packageManager": "pnpm@10.0.0"
+}
