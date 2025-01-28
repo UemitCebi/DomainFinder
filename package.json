@@ -31,7 +31,7 @@
     "type": "git",
     "url": "https://github.com/uemitcebi/domainfinder.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "csv-parser": "^3.1.0",
     "csv-writer": "^1.6.0",
