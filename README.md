@@ -20,8 +20,8 @@ This is a Node.js application that reads a list of names from a CSV file, perfor
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/UemitCebi/DomainFinder.git
+   cd DomainFinder
    ```
 
 2. Install the dependencies:
